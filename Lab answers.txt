@@ -1,0 +1,5 @@
+1. Very easy to set up, not a lot of code. 
+
+Not many API's, static means can't be dynamic
+
+2. https://cmput404-lab-5.github.io/
